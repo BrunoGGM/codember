@@ -15,9 +15,9 @@ Soluciones a los retos de [codember.dev](codember.dev)
 
 ```
 
-#secretos encontrados 
+## Secretos encontrados 
 
-2023
+### 2023
 
 | Secreto 	| Pista                                                           	|
 |:-------:	|-----------------------------------------------------------------	|
