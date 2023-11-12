@@ -14,3 +14,16 @@ Soluciones a los retos de [codember.dev](codember.dev)
 > Sin nada que hacer
 
 ```
+
+#secretos encontrados 
+
+2023
+
+| Secreto 	| Pista                                                           	|
+|:-------:	|-----------------------------------------------------------------	|
+| 1       	| ↑ ↑ ↓ ↓ ← → ← → B A                                             	|
+| 2       	| who.png -> https://youtu.be/CXNiKduFP7c (este como me costó XD) 	|
+| 3       	| type mail 1                                                     	|
+| 4       	| type mail 2                                                     	|
+| 5       	| abracadabra (este no es tan obvio)                              	|
+| 6       	| confetti                                                        	|
