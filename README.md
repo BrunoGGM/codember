@@ -1,6 +1,6 @@
 # Codember
 
-Soluciones a los retos de [codember.dev](codember.dev)
+Soluciones a los retos de [codember.dev](codember.dev) por [@midudev](https://github.com/midudev)
 
 ```bash
                     __                         __                       
