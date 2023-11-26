@@ -29,3 +29,7 @@ Soluciones a los retos de [codember.dev](codember.dev) por [@midudev](https://gi
 | 6       	| confetti                                                        	|
 | 7       	| ai.webp -> OpenAICEO  (type mail 3)                                |
 | 8       	| cat log_mars_mission.txt                                           |
+| 9       	| do a barrel roll                                                   |
+
+
+sudo nljzuyfzb
